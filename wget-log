@@ -1,0 +1,3 @@
+--2020-07-12 15:38:00--  https://update.code.visualstudio.com/commit:cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 104.42.78.153
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|104.42.78.153|:443... failed: Connection refused.
